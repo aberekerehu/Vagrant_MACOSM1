@@ -1,0 +1,7 @@
+#To provision the vm
+vagrant up
+
+#check webapp 
+	# http:// web01:80
+		username: admin_vp
+		password: admin_vp
